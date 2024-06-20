@@ -1,3 +1,6 @@
+# ESSLLI 2024
+Course Link: [click here](https://2024.esslli.eu/placeholder-programme/course-overview.html#10)
+
 # Language-in-Social-Context
 <i>Bridging NLP and Sociolinguistics</i>
 
