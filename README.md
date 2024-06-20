@@ -23,6 +23,19 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 
 # Pre-requirements
 <b> Basic Python Knowledge:</b> [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
+
+## Data Analysis
+- Dataset: Trust /Blogs/ Pan13 dataset.
+- Click the link to access the notebook for each specific task(All notebooks are implemented on Google Colab).
+
+| ID | Task                     | dataset | Link                                                                                                                                                                        |
+| -- | ------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Data Analysis         | Trust     | [Trust Data Analysis](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     |
+
+### Trust Data Analysis
+
+
+# Running the Code locally Requirements
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
 
 # Virtual Enivironment Setup
