@@ -26,6 +26,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 
 ## Data Analysis
 - Dataset: Trust /Blogs/ Pan13 dataset.
+- Data source: [Translation_bias by DirkHovy](https://github.com/MilaNLProc/translation_bias)
 - Click the link to access the notebook for each specific task(All notebooks are implemented on Google Colab).
 
 | ID | Task                     | dataset | Link                                                                                                                                                                        |
