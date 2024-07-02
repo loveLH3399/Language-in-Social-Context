@@ -36,13 +36,13 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 |3| Model Testing | Trust| |
 |4| Model Evaluation | Trust| |
 
-###  Data Analysis
+###  1. Data Analysis
 
-###  Model Training
+###  2. Model Training
 
-###  Model Testing
+###  3. Model Testing
 
-###  Model Evaluation
+###  4. Model Evaluation
 
 # Running the Code locally Requirements 
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
