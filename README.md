@@ -35,6 +35,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 |2| Model Training | Trust| [Model Training](https://colab.research.google.com/drive/1krA58lBM5uN89LslW3kpRZwsmdMuV0Aa?usp=sharing) |
 |3| Model Testing | Trust| |
 |4| Model Evaluation | Trust| |
+|5| Shap Analysis | Trust| |
 
 ###  1. Data Analysis
 
