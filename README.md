@@ -24,19 +24,27 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 # Pre-requirements
 <b> Basic Python Knowledge:</b> [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
 
-## Data Analysis
-- Dataset: Trust /Blogs/ Pan13 dataset.
+## Notebooks
+- Dataset: Trust
 - Data source: [Translation_bias by DirkHovy](https://github.com/MilaNLProc/translation_bias)
 - Click the link to access the notebook for each specific task(All notebooks are implemented on Google Colab).
 
 | ID | Task                     | dataset | Link                                                                                                                                                                        |
 | -- | ------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Data Analysis         | Trust     | [Trust Data Analysis](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     |
+|2| Model Training | Trust| [Model Training](https://colab.research.google.com/drive/1krA58lBM5uN89LslW3kpRZwsmdMuV0Aa?usp=sharing) |
+|3| Model Testing | Trust| |
+|4| Model Evaluation | Trust| |
 
-### Trust Data Analysis
+###  Data Analysis
 
+###  Model Training
 
-# Running the Code locally Requirements
+###  Model Testing
+
+###  Model Evaluation
+
+# Running the Code locally Requirements 
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
 
 # Virtual Enivironment Setup
@@ -46,3 +54,8 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 Example: ``` python -m venv my_venv ```
 - Step3: Activate the Virtual env ```source my_venv/bin/activate```
 <br>Note: We will be installing all the packages to <b>my_venv</b> environment and using it further to run the code.
+
+# Run the code
+- Step1: Download the notebooks
+- Step2: Open jupyter notebook through the activated env
+- Step3: Run the notebook
