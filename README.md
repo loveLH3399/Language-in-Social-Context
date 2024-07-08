@@ -33,8 +33,8 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 | -- | ------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Data Analysis         | Trust     | [Trust Data Analysis Notebook](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     |
 |2| Model Train, Test, and Evaluate | Trust| [Model Notebook](https://colab.research.google.com/drive/1krA58lBM5uN89LslW3kpRZwsmdMuV0Aa?usp=sharing) |
-|3| Model Test, and Evaluate | Trust| |
-|4| Shap Analysis | Trust| |
+|3| Model Test, and Evaluate | Trust| [Model Test Notebook](https://colab.research.google.com/drive/13JAoLixVFOBc-EIk9bGoZAToI98nHfmU?usp=sharing)|
+|4| Shap Analysis | Trust|[Shap Analysis](https://colab.research.google.com/drive/1lrI2CMxhgdgo5eoELOVc_h49VSb2PDU3?usp=sharing) |
 
 ###  1. Data Analysis
 
