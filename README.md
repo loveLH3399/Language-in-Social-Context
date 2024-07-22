@@ -36,13 +36,6 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 |3| Model Test, and Evaluate | Trust| [Model Test Notebook](https://colab.research.google.com/drive/13JAoLixVFOBc-EIk9bGoZAToI98nHfmU?usp=sharing)|
 |4| Shap Analysis | Trust|[Shap Analysis](https://colab.research.google.com/drive/1lrI2CMxhgdgo5eoELOVc_h49VSb2PDU3?usp=sharing) |
 
-###  1. Data Analysis
-
-###  2. Model Training
-
-###  3. Model Testing
-
-###  4. Model Evaluation
 
 # Running the Code locally Requirements 
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
