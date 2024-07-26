@@ -35,7 +35,8 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 |2| Model Train, Test, and Evaluate | Trust| [Model Notebook](https://colab.research.google.com/drive/1krA58lBM5uN89LslW3kpRZwsmdMuV0Aa?usp=sharing) |
 |3| Model Test, and Evaluate | Trust| [Model Test Notebook](https://colab.research.google.com/drive/13JAoLixVFOBc-EIk9bGoZAToI98nHfmU?usp=sharing)|
 |4| Shap Analysis | Trust|[Shap Analysis](https://colab.research.google.com/drive/1lrI2CMxhgdgo5eoELOVc_h49VSb2PDU3?usp=sharing) |
-|5| Baseline&LIWC Filtering | Trust|[Baseline&LIWC Filtering notebook](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing)
+|5| Baseline&LIWC Filtering | Trust|[Baseline&LIWC Filtering notebook](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing)|
+|6| Measuring convergence| CMV Data|[CMV Notebook](https://colab.research.google.com/drive/1FBYynsBdVWUBLk-QDQE4kP8kSnfj1Y-k?usp=sharing)|
 
 # Running the Code locally Requirements 
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
