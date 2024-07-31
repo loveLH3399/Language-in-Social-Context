@@ -37,6 +37,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 |4| Shap Analysis | Trust|[Shap Analysis](https://colab.research.google.com/drive/1lrI2CMxhgdgo5eoELOVc_h49VSb2PDU3?usp=sharing) |
 |5| Baseline&LIWC Filtering | Trust|[Baseline&LIWC Filtering notebook](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing)|
 |6| Measuring convergence| CMV Data|[Measuring Convergence Notebook](https://colab.research.google.com/drive/1FBYynsBdVWUBLk-QDQE4kP8kSnfj1Y-k?usp=sharing)|
+|7| Twitter Data | Twitter| [Twitter Data Notebook](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH?usp=sharing)|
 
 # Running the Code locally Requirements 
 <b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
