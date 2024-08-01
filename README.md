@@ -50,7 +50,7 @@ Example: ``` python -m venv my_venv ```
 - Step3: Activate the Virtual env ```source my_venv/bin/activate```
 <br>Note: We will be installing all the packages to <b>my_venv</b> environment and using it further to run the code.
 
-# Run the code
-- Step1: Download the notebooks
+# To run the code locally instead of Google Colab
+- Step1: Download all the notebooks (Also available in the notebook folder)
 - Step2: Open jupyter notebook through the activated env
 - Step3: Run the notebook
