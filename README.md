@@ -25,8 +25,8 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 <b> Basic Python Knowledge:</b> [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
 
 ## Notebooks
-- Dataset: Trust
-- Data source: [Translation_bias by DirkHovy](https://github.com/MilaNLProc/translation_bias)
+- Dataset: Trust, Reddit,and Twitter
+- Trust Data source: [Translation_bias by DirkHovy](https://github.com/MilaNLProc/translation_bias)
 - Click the link to access the notebook for each specific task(All notebooks are implemented on Google Colab).
 
 | ID | Task                     | dataset | Link                                                                                                                                                                        |
