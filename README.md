@@ -37,7 +37,7 @@ Students with previous experience in programming can run additional practical ex
 
 | Day | Task                     | Dataset  | Google Colab (recommended)                                                                                                                                                                        |  Jupyter notebook  (run locally) |
 | -- | ------------------------ | -----------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | TBA |
+| 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | [Local Notebook](notebooks/Trust_Data_Analysis.ipynb) |
 |2| Geographical Variability | Twitter | TBA | TBA |
 |3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | TBA | TBA |
 |4| Style Accomodation| Reddit | TBA | TBA |
