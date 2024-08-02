@@ -1,14 +1,14 @@
-# ESSLLI 2024
-Course Link: [click here](https://2024.esslli.eu/placeholder-programme/course-overview.html#10)
-
-# Language-in-Social-Context
-<i>Bridging NLP and Sociolinguistics</i>
+# Language in Social Context: Bridging NLP and Sociolinguistics (ESSLLI 2024)
 
 <b>Area:</b> Language and Computation (LaCo)
 
 <b>Level:</b> Introductory
 
 <b>Lecturer(s):</b> Agnieszka Faleńska and Filip Miletić
+
+<b>Help and practical exercises:</b> Pema Gurung
+
+<b>Course Link:</b> [click here](https://2024.esslli.eu/placeholder-programme/course-overview.html#10)
 
 <b>Abstract:</b>
 This course explores the relationship between language and society by drawing on complementary perspectives from sociolinguistics and natural language processing. It discusses variation in language use in connection with 
@@ -21,36 +21,52 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 - For students with a background in sociolinguistics, we will present examples of various computational techniques that can be used to analyze linguistic variation.
 - Students with previous experience in programming will be able to run the practical exercises independently and engage with different types of attested linguistic data.
 
-# Pre-requirements
-<b> Basic Python Knowledge:</b> [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
+# Slides
 
-## Notebooks
-- Dataset: Trust, Reddit,and Twitter
-- Trust Data source: [Translation_bias by DirkHovy](https://github.com/MilaNLProc/translation_bias)
-- Click the link to access the notebook for each specific task(All notebooks are implemented on Google Colab).
+| Day | Title                     | Slides | 
+| -- | ------------------------ | ----------- |
+|1| Introduction    | TBA |
+|2| Demographic factors (I) | TBA |
+|3| Demographic factors (II) |  TBA |
+|4| Language variation in interaction | TBA |
+|5| NLP applications and challenges | TBA |
 
-| ID | Task                     | dataset | Link                                                                                                                                                                        |
-| -- | ------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | Data Analysis         | Trust     | [Trust Data Analysis Notebook](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     |
-|2| Model Train, Test, and Evaluate | Trust| [Model Notebook](https://colab.research.google.com/drive/1krA58lBM5uN89LslW3kpRZwsmdMuV0Aa?usp=sharing) |
-|3| Model Test, and Evaluate | Trust| [Model Test Notebook](https://colab.research.google.com/drive/13JAoLixVFOBc-EIk9bGoZAToI98nHfmU?usp=sharing)|
-|4| Shap Analysis | Trust|[Shap Analysis](https://colab.research.google.com/drive/1lrI2CMxhgdgo5eoELOVc_h49VSb2PDU3?usp=sharing) |
-|5| Baseline&LIWC Filtering | Trust|[Baseline&LIWC Filtering notebook](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing)|
-|6| Measuring convergence| CMV Data|[Measuring Convergence Notebook](https://colab.research.google.com/drive/1FBYynsBdVWUBLk-QDQE4kP8kSnfj1Y-k?usp=sharing)|
-|7| Twitter Data | Twitter| [Twitter Data Notebook](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH?usp=sharing)|
+# Practical exercises
 
-# Running the Code locally Requirements 
-<b> Python Installation: </b> [Python Downloads](https://www.python.org/downloads/)
+Students with previous experience in programming can run additional practical exercises and play with different types of attested linguistic data. They can either use Google Colab (recommended) or run the code locally (see instructions below).
 
-# Virtual Enivironment Setup
-<i> To install the packages used for this project. </i> Run the commands in the terminal.
+| Day | Task                     | Dataset  | Google Colab (recommended)                                                                                                                                                                        |  Jupyter notebook  (run locally) |
+| -- | ------------------------ | -----------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | [Local Notebook](notebooks/Trust_Data_Analysis.ipynb) |
+|2| Geographical Variability | Twitter | TBA | TBA |
+|3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | TBA | TBA |
+|4| Style Accomodation| Reddit | TBA | TBA |
+
+## Pre-requirements for practical exercises
+Basic Python knowledge: [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
+
+## Running code locally
+Python Installation: [Python Downloads](https://www.python.org/downloads/)
+
+### To run the code locally instead of Google Colab
+
+- Step1: Download all the notebooks (also available in the notebook folder)
+- Step2: Open jupyter notebook through the activated env
+- Step3: Follow the instructions at the top on how to download the data
+- Step4: Run the notebook
+  
+### Virtual Enivironment Setup
+To install the packages used for this project run the commands in the terminal:
 - Step1: Install  ``` pip install virtualenv ``` 
-- Step2: Run the command(replace the <version> with your version and <virtual-environment-name> with your choice of name) ```python<version> -m venv <virtual-environment-name> ``` <br>
+- Step2: Run the command (replace the ```<version>``` with your version and ```<virtual-environment-name>``` with your choice of name)
+  ```python<version> -m venv <virtual-environment-name> ``` <br>
 Example: ``` python -m venv my_venv ```
 - Step3: Activate the Virtual env ```source my_venv/bin/activate```
 <br>Note: We will be installing all the packages to <b>my_venv</b> environment and using it further to run the code.
 
-# To run the code locally instead of Google Colab
-- Step1: Download all the notebooks (Also available in the notebook folder)
-- Step2: Open jupyter notebook through the activated env
-- Step3: Run the notebook
+
+
+
+
+
+
